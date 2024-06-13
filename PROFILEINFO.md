@@ -26,7 +26,7 @@ Desde que comencé a programar a los 8 años, he trabajado en una variedad de pr
 
 Puedes contactarme a través de mi perfil de GitHub o seguirme en mis redes sociales:
 
-- [LinkedIn](https://linkedin.com/in/johangelvasquez)
+- [Hack Forums](https://hackforums.net/member.php?action=profile&uid=5536369)
 - [Instagram](https://instagram.com/johangel78_ads)
 - [Email](mailto:perezusuario765@gmail.com)
 
@@ -34,8 +34,8 @@ Puedes contactarme a través de mi perfil de GitHub o seguirme en mis redes soci
 
 Aquí algunos de mis proyectos más destacados:
 
-- [CaposTrack](https://github.com/johangelvasquez/proyecto1): Descripción breve del proyecto 1.
-- [ChatPV](https://github.com/johangelvasquez/proyecto2): Descripción breve del proyecto 2.
+- [CaposTrack](https://github.com/TheDOMcracker/CaposTrack): Proyecto abandonado de un cifrador de llamadas con Twilio (ERES LIBRE DE USARLO O MOFIFICARLO A GUSTO :D )
+- [ChatPV](https://github.com/TheDOMcracker/ChatPV): Proyecto Open Source de Chat en Python.
 
 ## Objetivos
 
